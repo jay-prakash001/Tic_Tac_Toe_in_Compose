@@ -26,6 +26,19 @@ Run the app
 ```
 
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/jay-prakash001/Tic_Tac_Toe_in_Compose/refs/heads/master/Screenshot%202024-09-30%20074813.png)
+
+![App Screenshot](https://github.com/jay-prakash001/Tic_Tac_Toe_in_Compose/blob/master/Screenshot%202024-09-30%20074912.png?raw=true)
+
+
+![App Screenshot](https://github.com/jay-prakash001/Tic_Tac_Toe_in_Compose/blob/master/Screenshot%202024-09-30%20074837.png?raw=true)
+
+
+
+
+
 
 
 
