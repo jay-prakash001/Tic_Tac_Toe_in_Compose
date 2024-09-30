@@ -35,9 +35,8 @@ Run the app
 
 ![App Screenshot](https://github.com/jay-prakash001/Tic_Tac_Toe_in_Compose/blob/master/Screenshot%202024-09-30%20074837.png?raw=true)
 
-
 ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/jay-p-702638269/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-p-702638269/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-p-702638269/)
 
-[![Preview](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iamjayprakash04)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iamjayprakash04)
